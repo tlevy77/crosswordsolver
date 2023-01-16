@@ -1,0 +1,12 @@
+{
+     "Milk option": {"start":(0, 1), "direction":"A", "length": 4, "answer":"SKIM"},
+     "5x5 crossword puzzle": {"start":(1, 1), "direction":"A", "length": 4, "answer":"MINI"},
+     "___ Monsoon, drag queen who has won two seasons of \"RuPauls Drag Race\"": {"start":(2, 0), "direction":"A", "length": 5, "answer":"JINKX"},
+     "Word in some shoppe names": {"start":(3, 0), "direction":"A", "length": 4, "answer":"OLDE"},
+     "Bit on a friendship bracele": {"start":(4, 0), "direction":"A", "length": 4, "answer":"BEAD"},
+     "\"The ) of :-)\"": {"start":(0, 1), "direction":"D", "length": 5, "answer":"SMILE"},
+     "Sorta": {"start":(0, 2), "direction":"D", "length": 5, "answer":"KINDA"},
+     "Signed, as a contract": {"start":(0, 3), "direction":"D", "length": 5, "answer":"INKED"},
+     "A little bit of this, a little bit of that": {"start":(0, 4), "direction":"D", "length": 3, "answer":"MIX"},
+     "What pays the bills": {"start":(2, 0), "direction":"D", "length": 3, "answer":"JOB"}
+}
